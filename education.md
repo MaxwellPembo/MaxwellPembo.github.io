@@ -19,6 +19,7 @@ Expected Graduation: **May 2026**
 
 ### Hardware Engineering Coursework
 - Circuits III
+- Signals & Systems
 - Digital Logic Design
 - Computer Architecture
 - Computer Organization
@@ -36,6 +37,7 @@ May 2025 – Present
 - Created **backend business logic** including **APIs** for the Human Resources, Accounting, and Billing departments using the **C# .NET framework**.
 
 - Collaborated as part of an **Agile development team**, participating in daily stand-ups, sprint planning, and code reviews.
+
 - Contributed to **10+ departmental software projects**, implementing and maintaining both frontend and backend features to support business needs.
 
 **Lincoln Housing Authority** - Lincoln, NE  
@@ -43,6 +45,9 @@ May 2025 – Present
 May 2024 - May 2025
  
 - Found **technology solutions** for a **75+ employee company** with 5+ offsite locations.
+
 - Installed, repaired, and maintained **office PCs, servers, and printers/copiers**, ensuring reliable operations.
+
 - Provided technical support for office employees across a variety of applications, including **Windows, Microsoft Office, and OnBase**.
+
 - Resolved hardware, software, and connectivity issues in a professional office environment.

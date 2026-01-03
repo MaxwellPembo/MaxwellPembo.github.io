@@ -7,14 +7,16 @@ This website highlights my education, skills, and projects. Links to my **GitHub
 
 - [GitHub](https://github.com/MaxwellPembo)
 - [LinkedIn](https://www.linkedin.com/in/maxwell-pembo/)
-- [Download Resume](Items/Maxwell_Pembo_Resume.pdf)
+- [Download Resume](Items/Resume_MaxwellPembo.pdf)
+
 ---
+
 ## Projects
 
 I have completed several projects that use my skills in embedded systems, firmware, IoT, FPGAs, and more.
 
 
-- [View Project Details and Repos](projects.md)
+[View Project Details and Repos](projects.md)
 
 ---
 
@@ -25,7 +27,7 @@ Bachelor of Science in Computer Engineering
 Minor in Mathematics
 Expected Graduation: **May 2026**
 
-- [More about my education & work experience](education.md)
+[More about my education & work experience](education.md)
 
 ---
 
@@ -35,6 +37,6 @@ Expected Graduation: **May 2026**
 - **Embedded Systems:** Embedded Linux, IoT, RTOS, Low-Level Programming 
 - **Hardware:** Arduino, ESP32, FPGA, Raspberry Pi
 - **Software:** Git, Linux, VS Code, AMD Vivado, Intel Quartus
-- [Full skills list](skills.md)
+[Full skills list](skills.md)
 
 
