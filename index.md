@@ -5,10 +5,9 @@ Welcome to my personal website. I am a senior at the **University of Nebraska–
 
 This website highlights my education, skills, and projects. Links to my **GitHub, LinkedIn, and resume** are provided below.
 
-- [GitHub](https://github.com/yourusername)
-- [LinkedIn](https://linkedin.com/in/yourname)
-- [Resume](resume.md)
-
+- [GitHub](https://github.com/MaxwellPembo)
+- [LinkedIn](https://www.linkedin.com/in/maxwell-pembo/)
+- [Download Resume](Items/Maxwell_Pembo_Resume.pdf)
 ---
 ## Projects
 
