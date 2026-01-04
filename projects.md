@@ -47,7 +47,7 @@ ToolSense is a smart workshop management system that tracks the live status of t
 *ToolSense User Interface*
 
 
-**GitHub:** https://github.com/MaxwellPembo/ToolSense
+**GitHub:** [https://github.com/MaxwellPembo/ToolSense](https://github.com/MaxwellPembo/ToolSense)
 
 ---
 
@@ -75,7 +75,9 @@ This project included created a fully automatic, self driving robot that followe
 ![RobotFritz](/Items/Images/ArdunioRobot/FinishedRobot.jpeg)
 *Finished Robot*
 
-**GitHub:** https://github.com/MaxwellPembo/Arduino-Robot
+**GitHub:** [https://github.com/MaxwellPembo/Arduino-Robot](https://github.com/MaxwellPembo/Arduino-Robot)
+
+
 
 ---
 
@@ -101,6 +103,7 @@ SkyBeam is a project focused on maintaining a **60 GHz communication link** betw
 - **System Control**: Developed precise logic that adjusted beam direction.
 
 **Video:**
+
 **[Functionality Video](https://unl.yuja.com/V/Video?v=14783007&node=63450853&a=15950506)**
 
 ---
@@ -134,10 +137,13 @@ This project consisted of implementing a Oscilloscope and function generator usi
 *O-Scope Functionality*
 
 **[Oscilloscope Functionality Video 1](https://www.youtube.com/watch?v=GC_lx_L3_Rk)**
+
 **[Oscilloscope Functionality Video 2](https://www.youtube.com/shorts/oO8TJ-WLmiQ)**
+
 **[Function Generator Function Video](https://www.youtube.com/shorts/6k0h5HHZdU4)**
 
-**GitHub:** https://github.com/MaxwellPembo/FPGA-Oscilloscope
+**GitHub:** [https://github.com/MaxwellPembo/FPGA-Oscilloscope](https://github.com/MaxwellPembo/FPGA-Oscilloscope)
+
 
 ---
 
@@ -170,7 +176,7 @@ This project involved creating a verison of space invaders that ran on a FPGA co
 **[Space Invaders Function Video](https://www.youtube.com/watch?v=NFx8UxgBh_o)**
 
 
-**GitHub:** https://github.com/MaxwellPembo/FPGA-SpaceInvaders
+**GitHub:** [https://github.com/MaxwellPembo/FPGA-SpaceInvaders](https://github.com/MaxwellPembo/FPGA-SpaceInvaders)
 
 ---
 

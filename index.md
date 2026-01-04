@@ -33,10 +33,11 @@ Expected Graduation: **May 2026**
 
 ## Skills 
 
-- **Programming:** C, C++, Python, C#, Java  
-- **Embedded Systems:** Embedded Linux, IoT, RTOS, Low-Level Programming 
+- **Programming:** C, C++, C#, Java, Python  
+- **Embedded Systems:** Register level Programming, Internet Of Things, Real Time Operating Systems
 - **Hardware:** Arduino, ESP32, FPGA, Raspberry Pi
 - **Software:** Git, Linux, VS Code, AMD Vivado, Intel Quartus
+
 [Full skills list](skills.md)
 
 
